@@ -8,3 +8,5 @@ Conta conta3 = new Conta("654321", 2341.42m);
 
 Console.WriteLine($"O saldo total é {conta2.SaldoTotal}");
 Console.WriteLine($"A conta de maior saldo é {conta2._ContaMaiorSaldo}");
+
+Cliente cliente1 = new Cliente("Souza", "12345678910", 2000);
